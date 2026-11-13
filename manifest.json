@@ -2,5 +2,12 @@
   "schema": 1,
   "channel": "stable",
   "generated_at": "2026-11-13T00:00:00Z",
-  "firmwares": {}
+  "firmwares": {
+    "SCTECH0107": {
+      "version": "0.4.1",
+      "url": "https://github.com/ProtodynamicsSrl/gexo-firmware-releases/releases/download/v0.4.1/0.4.1.bin",
+      "sha256": "c24a72dc1191197532b1fd08b38ca32685f1d2d2fe58b0884eb86e029cc39661",
+      "size": 1464016
+    }
+  }
 }
