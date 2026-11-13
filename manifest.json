@@ -4,10 +4,10 @@
   "generated_at": "2026-11-13T00:00:00Z",
   "firmwares": {
     "SCTECH0107": {
-      "version": "0.4.1",
-      "url": "https://github.com/ProtodynamicsSrl/gexo-firmware-releases/releases/download/v0.4.1/0.4.1.bin",
-      "sha256": "c24a72dc1191197532b1fd08b38ca32685f1d2d2fe58b0884eb86e029cc39661",
-      "size": 1464016
+      "version": "0.4.2",
+      "url": "https://github.com/ProtodynamicsSrl/gexo-firmware-releases/releases/download/v0.4.2/0.4.2.bin",
+      "sha256": "33f2d41933b7605fd46eac820d0a488440da7543c72e9fc1407496ca66ddeb44",
+      "size": 1463764
     }
   }
 }
